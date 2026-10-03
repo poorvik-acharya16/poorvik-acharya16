@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Poorvik Acharya 👋
 
-<!--
-**poorvik-acharya16/poorvik-acharya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in software development and building practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Skills
+
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- Python
+- Git & GitHub
+
+### 🚀 Featured Project
+
+#### Smart Expense Manager
+
+A full-stack MERN application for managing personal expenses and visualizing spending patterns.
+
+**Features:**
+- JWT authentication
+- Expense management
+- Interactive dashboard
+- Spending analytics
+- Expense history
+- AI-powered spending insights
+
+### 🎓 Education
+
+**Shri Madhwa Vadiraja Institute of Technology**  
+Computer Science Engineering | 2023–2027
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/poorvik-acharya16
